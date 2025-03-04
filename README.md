@@ -2,8 +2,8 @@
 
 A modern, responsive calculator application built with Next.js and Tailwind CSS.
 
-![Calculator App Screenshot](![Screenshot (77)](https://github.com/user-attachments/assets/c1e181c0-25ce-4344-8755-57faad03ca59)
-)
+![Calculator App Screenshot]![Screenshot (77)](https://github.com/user-attachments/assets/c1e181c0-25ce-4344-8755-57faad03ca59)
+
 
 
 ## Features
